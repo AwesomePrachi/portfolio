@@ -30,7 +30,7 @@ This portfolio focuses on:
 Carefully selected **real-world applications** with live demos and source code:
 - Full-stack grocery & e-commerce platform  
 - Contact management CRUD application  
-- Recipe sharing web app  
+- Browse & filter food items 
 
 Each project highlights **problem-solving, UI design, and backend integration**.
 
@@ -55,15 +55,6 @@ Each project highlights **problem-solving, UI design, and backend integration**.
 
 ---
 
-### 👩‍💻 About Me
-
-I’m a **B.Sc. IT graduate** with hands-on experience in building full-stack web applications.  
-I enjoy working across the stack — from crafting clean user interfaces to developing secure backend APIs.
-
-I’m currently looking for an **entry-level developer role** where I can grow, collaborate, and contribute to meaningful products.
-
----
-
 ## ⚡ Built With
 
 <p>
@@ -78,8 +69,6 @@ I’m currently looking for an **entry-level developer role** where I can grow, 
 ## 📸 Live Preview
 
 👉 **View Portfolio:** https://your-portfolio-url.vercel.app  
-
-> Optimized for desktop, tablet, and mobile devices.
 
 ---
 
