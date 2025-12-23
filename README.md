@@ -1,85 +1,46 @@
-<!-- Header -->
-<h1 align="center">👋 Hi, I'm Prachi Patel</h1>
-<h3 align="center">MERN Stack Developer | Full-Stack Web Enthusiast</h3>
+# 🌐 Personal Portfolio – Prachi Patel
 
-<p align="center">
-  <a href="https://your-portfolio-url.vercel.app">🌐 Portfolio</a> •
-  <a href="https://linkedin.com/in/awesome-prachi-patel">LinkedIn</a> •
-  <a href="mailto:awesomeprachipatel@gmail.com">Email</a>
-</p>
+A modern, responsive **personal portfolio website** built to showcase my projects, skills, and experience as a **MERN Stack Developer**.  
+Designed with a clean dark UI, smooth animations, and a strong focus on usability across all devices.
+
+🔗 **Live Demo:** https://your-portfolio-url.vercel.app  
 
 ---
 
-## 🚀 Portfolio Website
+## ✨ Features
 
-A **modern, responsive personal portfolio** built to showcase my projects, skills, and development journey as a **MERN Stack Developer**.
-
-This portfolio focuses on:
-- clean UI
-- smooth animations
-- real-world projects
-- mobile-first design
-
-> Designed to reflect how I build products — simple, usable, and production-ready.
+- ⚡ Modern dark-themed UI with accent highlights  
+- 📱 Fully responsive (mobile, tablet, desktop)  
+- 🎬 Smooth animations using Framer Motion  
+- 🧭 Section-based navigation (Home, Projects, Skills, About, Contact)  
+- 🧩 Clean project showcases with live & code links  
+- 📩 Direct contact options (Email, LinkedIn, GitHub)  
 
 ---
 
-## 🖥️ What You’ll Find Here
+## 📂 Sections Overview
 
-### 🧩 Projects
-Carefully selected **real-world applications** with live demos and source code:
-- Full-stack grocery & e-commerce platform  
-- Contact management CRUD application  
-- Browse & filter food items 
-
-Each project highlights **problem-solving, UI design, and backend integration**.
+- **Hero** – Clear introduction and personal branding  
+- **Projects** – Highlighted real-world applications with live demos  
+- **Technical Skills** – Organized tech stack overview  
+- **About Me** – Background, mindset, and career goals  
+- **Contact** – Easy ways to connect professionally  
 
 ---
 
-### 🛠 Technical Skills
+
+## 🛠 Tech Stack
 
 **Frontend**
-- React.js, JavaScript (ES6+)
-- HTML5, CSS3
-- Bootstrap, Tailwind CSS
+- React.js
+- JavaScript (ES6+)
+- Tailwind CSS
+- Framer Motion
 
-**Backend**
-- Node.js, Express.js
-- MongoDB, SQL
-
-**Tools**
-- Git & GitHub
+**Tools & Deployment**
 - Vite
-- Vercel, Render
-- Postman, VS Code
+- Git & GitHub
+- Vercel
 
----
-
-## ⚡ Built With
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/>
-  <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-</p>
-
----
-
-## 📸 Live Preview
-
-👉 **View Portfolio:** https://your-portfolio-url.vercel.app  
-
----
-
-## 📬 Let’s Connect
-
-- 📧 **Email:** awesomeprachipatel@gmail.com  
-- 💼 **LinkedIn:** https://linkedin.com/in/awesome-prachi-patel  
-- 💻 **GitHub:** https://github.com/AwesomePrachi  
-
----
-
-<p align="center">
-  ⭐ If you like my work, consider starring this repository
-</p>
+elopment server
+npm run dev
